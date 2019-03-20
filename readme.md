@@ -1,2 +1,2 @@
 #CIT85-Creating Websites.
-This is my website created for the course.
+This is my repository created for the course.
