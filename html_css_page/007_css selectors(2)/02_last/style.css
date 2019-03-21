@@ -1,0 +1,7 @@
+body {
+    font-size: 36px;font-family: cursive; font-style: italic;
+}
+
+li:last-child {
+    color: cyan;
+}

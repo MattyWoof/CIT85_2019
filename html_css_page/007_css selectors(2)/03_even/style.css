@@ -1,0 +1,20 @@
+body {
+    font-size: 36px;
+    font-family: cursive; 
+    font-style: italic;
+}
+
+li:nth-child(even) {
+    color: rgb(223, 160, 25);
+    background-color: azure;
+}
+
+li:nth-child(odd) {
+    color: rgba(14, 117, 45, 0.795);
+    background-color: cornsilk;
+}
+
+p {
+    font-size: 20px;
+    color: lightseagreen;
+}
