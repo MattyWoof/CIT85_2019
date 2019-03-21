@@ -1,0 +1,24 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    border: 8px solid forestgreen;
+    border-block-end-style: dashed;
+}
+
+/* "LVHA" = Link, Visited, Hover, Active */
+
+a:link {
+    color: sandybrown;
+}
+
+a:visited {
+    color: darkgreen
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: khaki;
+}
