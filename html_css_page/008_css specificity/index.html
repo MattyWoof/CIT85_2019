@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="main.css">
+    <title>CSS Specificity</title>
+</head>
+<body>
+
+    <!-- div>h1+tab -->
+    <div>
+        <h1>This is a H1 header within a div.</h1>
+    </div>
+
+     <!-- div>p+tab -->
+     <div>
+            <p>This is a paragraph within a div.</p>
+        </div>
+
+    <!-- div+tab -->
+    <div>
+        <section><p>This is just a div.</p></section>
+    </div>
+
+    <!-- div>p*3+tab -->
+    <div>
+        <p class="emph1">This is the first paragraph within a div with a class.</p>
+        <p class="emph2">This is the second paragraph within a div with a class.</p>
+        <p class="emph3">This is the third paragraph within a div with a class.</p>
+    </div>
+
+    <!-- <div id="emphasize"></div> -->
+    <div id="emphasize">Emphasize This!</div>
+
+    
+</body>
+</html>

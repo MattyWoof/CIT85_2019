@@ -1,0 +1,96 @@
+body { 
+    position: fixed;
+    background: #f5f5f5;
+}
+
+div>p {
+    width: 2.2in;
+    height: .2in;
+    border: dotted orange;
+}
+
+h1 {
+    width: 4.75in;
+    height: 2ch;
+    border: 2px solid red; 
+}
+
+section>p {
+    width: 1.2in;
+    height: .20in;
+    border: 2px dotted green;
+}
+
+.emph1 {
+    width: 3.5in; 
+    height:2ch;
+    border: 3px solid blue;
+}
+
+.emph2 {
+    width: 3.65in; 
+    height: 2ch;
+    border: 2px ridge yellow;
+}
+
+.emph3 {
+    width: 3.5in; 
+    height: 2ch;
+    border: 2px outset orange;
+}
+
+#emphasize {
+    width: 1.2in;
+    height: .20in;
+    border: 2px groove firebrick;
+}
+
+/* selector specificity 001 */
+p {
+    color: green;
+}
+
+/* selector specificity 001 */
+h1 {
+    color: rgb(19, 177, 169);
+}
+
+/* selector specificity 001 */
+div {
+    color: rgb(44, 44, 136);
+}
+
+/* selector specificity 010 */
+.emph1 {
+    color: darkslateblue;
+}
+
+/* selector specificity 010 */
+.emph2 {
+    color: dodgerblue;
+}
+
+/* selector specificity 010 */
+.emph3 {
+    color: indigo;
+}
+
+/* selector specificity 100 */
+#emphasize {
+    color: rgb(211, 57, 11);
+}
+
+/* selector specificity 001 */
+section {
+    color: crimson;
+}
+ 
+/* selector specificity 002 */
+h1+p {
+    color: darkblue;
+}
+
+/* selector specificity 003 */
+body html header {
+    color: cyan;
+}
