@@ -1,0 +1,29 @@
+body {
+    font-size: 20px;
+    text-align: center; 
+    padding-top: 32px;
+}
+
+div p {
+    color: goldenrod;
+    font-family: fantasy;
+    font-size: 22px;
+}
+
+div > p {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+}
+
+div ~ p {
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+div + p {
+    color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 26px;
+}
