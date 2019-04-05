@@ -1,0 +1,13 @@
+body {
+    background: lightgray;
+    text-align: center;
+}
+div {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border: 8px solid yellow;
+    background-color: lemonchiffon;
+    border-radius: 100% 20% 100% 25%;
+    display: inline-block;
+}
