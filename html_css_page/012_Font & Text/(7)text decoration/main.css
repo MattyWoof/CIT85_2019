@@ -1,0 +1,14 @@
+html {
+    font-size: 26px;
+}
+
+p {
+    text-decoration: none;
+}
+p:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
