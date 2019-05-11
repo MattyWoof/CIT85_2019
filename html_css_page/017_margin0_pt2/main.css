@@ -1,0 +1,39 @@
+* {
+    border: 1px dashed blue;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+div {
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 100px 100px 100px 100px;
+}
+
+#one {
+    background-color: #FF0000;
+}
+
+#two {
+    background-color: #0000FF;
+}
+
+#three {
+    background-color: #FFD700;
+}
+
+#four {
+    background-color: #308014;
+}
