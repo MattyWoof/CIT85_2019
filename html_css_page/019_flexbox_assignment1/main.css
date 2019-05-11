@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    border: 5px solid forestgreen;
+    font-style: bold;
+    text-align: center;
+    font-size: xx-large;
+}
+
+div {
+    width: 450px;
+    height: 90px;
+    margin: 1em;
+    border: 1px solid forestgreen;
+    background-color: tan;
+    text-align: center;
+}
+
+.grow1 {
+    flex-grow: 1;
+}
+
+.grow2 {
+    flex-grow: 2;
+}
