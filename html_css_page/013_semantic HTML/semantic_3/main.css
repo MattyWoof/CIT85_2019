@@ -1,0 +1,81 @@
+header  {
+    background: red;
+    color: white;
+    width: 12in;
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+nav {
+    background: darkorange;
+    color: white;
+    width: 12in;
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+aside   {
+    background: dodgerblue;
+    color: white;
+    width: 20%;
+    height: 5.25in;
+    margin-right: 40%;
+    text-align: center;
+    font-size: 25px;
+    float: right;
+}
+
+section {
+    border: solid darkgray;
+    background: orange;
+    color: black;
+    width: 6in;
+    height: 4in;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+    float: left;
+}
+
+#article1 {
+    background: forestgreen;
+    border: solid darkgray;
+    color: white;
+    width: 6in;
+    height: 1.5in;
+    padding: 5px auto;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+#article2 {
+    background: forestgreen;
+    border: solid darkgray;
+    color: white;
+    width: 6in;
+    height: 1.5in;
+    padding: 5px auto;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+footer {
+    background: purple;
+    color: white;
+    width: 12in;
+    height: 50px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+    clear: both;
+}

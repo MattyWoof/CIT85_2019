@@ -1,0 +1,62 @@
+header  {
+    background: deepskyblue;
+    color: black;
+    padding: 50px;
+    font-size: x-large;
+    margin: 5px 5px 5px 5px;
+    width: 825px;
+}
+
+nav {
+    background: greenyellow;
+    color: black;
+    padding: 50px;
+    float: left;
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+    width: 200px;
+    height: 3in;
+    font-size: 20px;
+}
+
+article {
+    background: palegreen;
+    color: black;
+    padding: 50px;
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+    width: 200px;
+    height: 3in;
+    font-size: 20px;
+    text-align: center;
+}
+
+aside  {
+    background: chocolate;
+    color: black;
+    padding: 50px;
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+    width: 200px;
+    height: 3in;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer  {
+    background: deepskyblue;
+    color: black;
+    padding: 50px;
+    font-size: x-large;
+    margin: 5px 5px 5px 5px;
+    width: 825px;
+}
+
+#section {
+    background: mediumpurple;
+}
+
+#asidesection   {
+    background: orangered;
+}
+

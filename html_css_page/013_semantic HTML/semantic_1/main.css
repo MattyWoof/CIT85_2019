@@ -1,0 +1,55 @@
+header  {
+    background: lightgray;
+    color: white;
+    padding: 2em;
+    text-align: center;
+    margin: 20px;
+    height: 1in;
+    font-size: 30px;
+}
+
+section {
+    background: lightgray;
+    color: white;
+    padding: 2em;
+    text-align: center;
+    margin: 10px;
+    height: 4in;
+    width: 10in;
+    font-size: 30px;
+    float: left;
+}
+
+article {
+    background: darkgray;
+    padding: 1in 1in 1in 1in;
+    color: white;
+    margin: 20px auto;
+    height 1in;
+    width: 6in;
+    font-size: 30px;
+}
+
+aside {
+    background: lightgray;
+    color: white;
+    padding: 20px auto;
+    text-align: center;
+    margin: 10px auto;
+    height: 5.28in;
+    width: 8in;
+    font-size: 30px;
+    float: right;
+}
+
+footer  {
+    background: lightgray;
+    color: white;
+    padding: 20px auto;
+    margin: 10px auto;
+    height: 2in;
+    font-size: 30px;
+    float: bottom;
+    text-align: center;
+
+}
