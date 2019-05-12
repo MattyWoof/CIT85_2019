@@ -1,0 +1,17 @@
+5 lines (12 sloc)  114 Bytes
+
+                       body {
+                           width: 800px;
+                       }
+
+.box1 {
+    width: 60%;
+}
+
+.box2 {
+    width: 40%;
+}
+
+.box3, .box4, .box5 {
+    width: 33.33%;
+}
