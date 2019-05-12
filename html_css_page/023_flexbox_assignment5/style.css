@@ -1,0 +1,19 @@
+.box1 {
+    color: #fff;
+    background-color: #003476;
+}
+
+.box2 {
+    color: #fff;
+    background-color: #0062d2;
+}
+
+.box3 {
+    color: #fff;
+    background-color: #b4d2f7;
+}
+
+.box4 {
+    border: 2px solid red;
+    box-sizing: border-box;
+}
