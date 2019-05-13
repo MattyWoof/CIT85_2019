@@ -1,0 +1,10 @@
+#greenfooter {
+    /*formatting*/
+    width: 100%;
+    height: 150px;
+    background-color: green;
+    /*layout*/
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
